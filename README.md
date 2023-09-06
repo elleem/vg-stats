@@ -20,7 +20,7 @@
 - [x] For North American video game sales, what’s the median?
 
     - [x] Provide a secondary output showing ten games surrounding the median sales output.
-    - [x] Assume that games with same median value are sorted in descending order.
+    - [x] Assume that games with the same median value are sorted in descending order.
 
 - [x] For the top-selling game of all time, how many standard deviations above/below the mean are its sales for North America?
 
